@@ -28,7 +28,7 @@ document.getElementById("registroForm").addEventListener("submit", async functio
     try {
         await registrarUsuario(registroData);
         alert("Registro realizado con éxito.");
-        window.location.href = "../../HOME.html";
+        window.location.href = "../../index.html";
     } catch (error) {
         alert("Error al registrar el usuario. Por favor, inténtelo de nuevo.");
     }
