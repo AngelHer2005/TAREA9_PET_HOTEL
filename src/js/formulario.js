@@ -38,7 +38,7 @@ document.querySelector("form").addEventListener("submit", async function (event)
     console.log("Formulario enviado:", formularioData);
     alert("Formulario enviado con éxito.");
     await enviarFormulario(formularioData);
-    window.location.href = "../public/HOME.html";
+    window.location.href = "../../index.html";
 });
 
 module.exports = enviarFormulario;
