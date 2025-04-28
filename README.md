@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # SITIO WEB - PET HOTEL
 
 Este proyecto es un sitio web para la gestión de reservas y usuarios en un hotel para mascotas.
@@ -27,8 +25,7 @@ Este proyecto es un sitio web para la gestión de reservas y usuarios en un hote
 - Node.js
 - MySQL
 =======
-=======
->>>>>>> 34f6684 (Initialize project using Create React App)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -99,7 +96,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-<<<<<<< HEAD
->>>>>>> 12e3145 (Initial commit of pet-hotel project)
-=======
->>>>>>> 34f6684 (Initialize project using Create React App)
