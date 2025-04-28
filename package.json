@@ -1,34 +1,17 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "name": "sitio-web-pet-hotel",
-  "version": "1.0.0",
-  "description": "Sitio web para la gestión de un hotel para mascotas.",
-  "main": "src/js/conexion.js",
-  "scripts": {
-    "start": "node src/js/conexion.js"
-  },
-  "author": "Angel Patricio Arroyo",
-  "license": "MIT",
-  "dependencies": {
-    "mysql2": "^3.3.0",
-    "nodemailer": "^6.9.4"
-=======
-=======
->>>>>>> 34f6684 (Initialize project using Create React App)
   "name": "pet-hotel",
   "version": "0.1.0",
   "private": true,
+  "description": "Sitio web para la gestión de un hotel para mascotas.",
+  "author": "Angel Patricio Arroyo",
+  "license": "MIT",
+  "main": "src/index.js",
   "dependencies": {
-<<<<<<< HEAD
     "@popperjs/core": "^2.11.8",
-=======
->>>>>>> 34f6684 (Initialize project using Create React App)
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
-<<<<<<< HEAD
     "axios": "^1.9.0",
     "bcrypt": "^5.1.1",
     "bootstrap": "^5.3.5",
@@ -36,13 +19,10 @@
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "mysql2": "^3.14.0",
+    "nodemailer": "^6.9.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.5.2",
-=======
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
->>>>>>> 34f6684 (Initialize project using Create React App)
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -69,9 +49,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
->>>>>>> 12e3145 (Initial commit of pet-hotel project)
-=======
->>>>>>> 34f6684 (Initialize project using Create React App)
   }
 }
